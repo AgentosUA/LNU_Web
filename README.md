@@ -1,1 +1,1 @@
-# LNU_Web
+PSD Template for LNU Faculty of Electronics
